@@ -1,0 +1,6 @@
+﻿classpath
+.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;
+
+path
+
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;D:\apache-maven-3.2.2\bin;%CATALINA_HOME%\lib;%CATALINA_HOME%\bin;

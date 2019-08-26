@@ -1,2 +1,0 @@
-﻿spring.profiles.active=dev
-spring.application.name=yf-config-dev
